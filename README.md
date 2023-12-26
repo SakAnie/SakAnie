@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Sakshi Sinha (ISTQB- US Certified SDET)
 - 👀 I’m interested in ... automation testing for UI & API(MicroServices)
-- 🌱 I’m currently learning ...Automation using Playwright and Cypress.
-- 💞️ I’m looking to collaborate on ...Selenium & Rest Assured project's
+- 💞️ I’m looking to collaborate on ...Selenium & Rest Assured API project's
 - 📫 How to reach me ...LinkedIn Account www.linkedin.com/in/sakshi-sinha-anie
-- 📫 I also like to explore on Perf Test Tools like "Gattling"
+- 📫 I am currently learning Perf Test Tool  "Gattling"
 
 <!---
 SakAnie/SakAnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
