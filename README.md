@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... automation testing for UI & API(MicroServices)
 - 💞️ I’m looking to collaborate on ...Selenium & Rest Assured API project's
 - 📫 How to reach me ...LinkedIn Account www.linkedin.com/in/sakshi-sinha-anie
-- 📫 I am currently learning Perf Test Tool  "Gattling"
+- 📫 I am currently learning Perf Test Tool  "Gattling", Kubernetes and GCP concepts, Pen Testing & AI - ML DataScience PG Course
 
 <!---
 SakAnie/SakAnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
